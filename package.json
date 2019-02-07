@@ -1,0 +1,14 @@
+{
+  "name": "leaflet-markers",
+  "version": "1.0.0",
+  "description": "plot markers from API on a zoomable map",
+  "main": "server.js",
+  "scripts": {},
+  "author": "Howard Durdle <howard@durdle.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.9"
+  }
+}
