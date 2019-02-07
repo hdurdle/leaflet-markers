@@ -62,4 +62,5 @@ typings/
 
 \.idea/
 
-config/
+config/database.config.js
+config/facebook.config.js
